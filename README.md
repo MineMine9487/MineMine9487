@@ -11,4 +11,4 @@
 
 *話說為什麼我要在手機上做網頁xD*
 
-<font color=Blue>我是蓝色</font>
+[Next Page >](test.md)
