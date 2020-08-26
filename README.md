@@ -10,3 +10,5 @@
 那就開始嘍 GoGoGo！
 
 *話說為什麼我要在手機上做網頁xD*
+
+<font color=Blue>我是蓝色</font>
